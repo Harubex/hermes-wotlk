@@ -1,16 +1,16 @@
-## Interface: 30401
-## Title: Hermes (wotlk fix)
+## Interface: 30402
+## Title: Hermes (Wrath Classic)
 ## Author: Meli
-## Version: 0.1
+## Version: 1.11
 ## Notes: Lets you speak to opposing factions with minimal loss of comprehension
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 
-vocabularies/common.lua
-vocabularies/orcish.lua
-vocabularies/undead.lua
-vocabularies/taurahe.lua
-vocabularies/zandali.lua
-vocabularies/thalassian.lua
+common.lua
+orcish.lua
+undead.lua
+taurahe.lua
+zandali.lua
+thalassian.lua
 
 Hermes.lua

@@ -21,16 +21,15 @@ HERMES_ZANDALI = {
 	},
 
 	SUBSTITUTES = {
-		B = 'BW',
-		G = 'GI',
+		B = 'F',
+		G = 'J',
 		K = 'C',
-		L = 'LO',
+		L = 'S',
 		P = 'R',
-		Q = 'QU',
+		Q = 'C',
 		V = 'W',
-		X = 'CS',
-		ZY = 'ZU',
-		Z = 'ZU'
+		X = 'W',
+		Z = 'W'
 	},
 
 	SEPARATOR = {
